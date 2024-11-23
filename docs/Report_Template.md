@@ -121,7 +121,7 @@ Key exploratory analysis steps and findings are as follows:
 ## 4.2 Data Visualizations:
 
 ### Scatter Plot: Heart Rate vs Length of Stay
-![Scatter Plot: Heart Rate vs Length of Stay](https://github.com/sujeeth26/UMBC-DATA606-Capstone/blob/main/docs/3rd%20img.png?raw=true)
+![Scatter Plot: Heart Rate vs Length of Stay](https://github.com/sujeeth26/UMBC-DATA606-Capstone/blob/main/docs/1st%20img.png?raw=true)
 
 This plot visualizes the relationship between heart rate and length of stay, with data points colored according to the disposition (whether the patient was admitted or discharged). This helps to observe if higher heart rates correlate with longer stays, and whether there are any patterns based on admission status.
 
