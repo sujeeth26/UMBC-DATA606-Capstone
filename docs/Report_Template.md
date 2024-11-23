@@ -121,22 +121,22 @@ Key exploratory analysis steps and findings are as follows:
 ## 4.2 Data Visualizations:
 
 ### Scatter Plot: Heart Rate vs Length of Stay
-![Scatter Plot: Heart Rate vs Length of Stay](/Users/sujeethreddysithagari/Desktop/1st img.png)
+![Scatter Plot: Heart Rate vs Length of Stay](docs/1st img.png)
 
 This plot visualizes the relationship between heart rate and length of stay, with data points colored according to the disposition (whether the patient was admitted or discharged). This helps to observe if higher heart rates correlate with longer stays, and whether there are any patterns based on admission status.
 
 ### Box Plot: Systolic Blood Pressure vs Disposition
-![Box Plot: Systolic Blood Pressure vs Disposition](/Users/sujeethreddysithagari/Desktop/2nd img.png)
+![Box Plot: Systolic Blood Pressure vs Disposition](docs/2nd img.png)
 
 This box plot shows how systolic blood pressure (SBP) varies across the disposition categories. It helps in understanding the distribution of blood pressure for both admitted and discharged patients, and whether there are significant differences between the two groups.
 
 ### Histogram: Length of Stay Distribution
-![Histogram: Length of Stay Distribution](/Users/sujeethreddysithagari/Desktop/3rd img.png)
+![Histogram: Length of Stay Distribution](docs/3rd img.png)
 
 This histogram displays the distribution of length of stay across all patients. It provides insights into how many patients have shorter or longer stays, helping to identify any skewness in the data.
 
 ### Correlation Heatmap
-![Correlation Heatmap](/Users/sujeethreddysithagari/Desktop/4th img.png)
+![Correlation Heatmap](docs/4th_img.png)
 
 This heatmap visualizes the correlation between various vital signs (such as heart rate, blood pressure, and oxygen saturation) and length of stay. It allows for a quick assessment of how strongly these variables are related to the length of stay and can reveal any potential multicollinearity or significant relationships.
 
