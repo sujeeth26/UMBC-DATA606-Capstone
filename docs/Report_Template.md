@@ -184,7 +184,7 @@ Once the user provides the required information, the model predicts whether they
 ## 6. Application of the Trained Models
 
 The Streamlit app integrates a Random Forest Classifier for predicting patient admission status and a Random Forest Regressor for estimating the length of stay in a hospital based on user-provided data. The app considers various health parameters such as heart rate, blood pressure, oxygen saturation, temperature, and other vital signs. Users input their information through an intuitive sidebar interface, receiving real-time predictions on whether they are likely to be admitted and their expected length of stay. The app further enables users to compare their health metrics with the dataset's distribution across categories like age, blood pressure, and heart rate. Additionally, it offers a detailed analysis of how each health parameter contributes to the prediction results.
-
+file:///var/folders/9d/8_jx0l4s3wl2sq465h9tfh2c0000gn/T/TemporaryItems/NSIRD_screencaptureui_W1denX/Screenshot%202024-11-23%20at%2011.15.21%20AM.png
 
 ## 7. Conclusion
 
