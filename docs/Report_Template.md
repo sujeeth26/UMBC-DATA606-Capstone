@@ -12,8 +12,8 @@
 - **Author Name**: SITHAGARI SUJEETH REDDY
 - **Link to the author's GitHub repo of the project**: [GitHub](https://github.com/sujeeth26/UMBC-DATA606-Capstone)
 - **Link to the author's LinkedIn profile**: [LinkedIn](https://www.linkedin.com/in/sujeeth-sithagari/)
-- **Link to your PowerPoint presentation file**
-- **Link to your YouTube video**
+- **Link to your PowerPoint presentation file** [PPT File](https://docs.google.com/presentation/d/13YE06HoTJlvNeZFHI2jn-xXgX54LJz1d/edit?usp=drive_link&ouid=103169973481008814039&rtpof=true&sd=true)
+- **Link to your YouTube video**[Link](https://youtu.be/fka4pfNkTkM)
 
 ## 2. Background
 
