@@ -52,10 +52,7 @@ This project applies machine learning to predict patient admission and length of
    streamlit run app.py
    ```
 
-## Future Work
-- Integrate more patient-specific features.
-- Improve model performance using deep learning.
-- Deploy as a mobile-friendly application.
+
 
 ## References
 - [MIMIC-IV Documentation](https://physionet.org/content/mimic-iv-ed-demo/2.2/)
@@ -63,4 +60,4 @@ This project applies machine learning to predict patient admission and length of
 - [Plotly Python](https://plotly.com/python/)
 
 ---
-This README provides a concise yet comprehensive overview of the project. Let me know if you'd like any modifications!
+
